@@ -3,6 +3,4 @@ We have access to two features "living area" and "year built" to build our model
 
 Let's fit linear regression models to $x1, x2$, and $(x1, x2)$, and report the testing error for each model.
 
-The test error is calculated as <img width=200 src="https://github.com/Aparnak12/ML-Fundamentals/assets/51270673/680bac85-ec1b-46f6-ad4b-e63a6c384bd3)https://github.com/Aparnak12/ML-Fundamentals/assets/51270673/680bac85-ec1b-46f6-ad4b-e63a6c384bd3">
-
-for the test data, where $\hat{y}^{(i)}$ is the prediction.
+The test error is calculated as <img width=200 src="https://github.com/Aparnak12/ML-Fundamentals/assets/51270673/680bac85-ec1b-46f6-ad4b-e63a6c384bd3)https://github.com/Aparnak12/ML-Fundamentals/assets/51270673/680bac85-ec1b-46f6-ad4b-e63a6c384bd3"> for the test data, where $\hat{y}^{(i)}$ is the prediction.
